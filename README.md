@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Página del Laboratorio de Introducción al Manejo y Exploración de Datos
 
-You can use the [editor on GitHub](https://github.com/imed-puc/imed-puc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Pagína basica para  [EYP1707](https://catalogo.uc.cl/index.php?tmpl=component&option=com_catalogo&view=programa&sigla=eyp1707)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Temario  Tentativo
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+* Medidas numéricas de resumen
+* Visualización de datos
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Temario Tentativo 2
 
-### Jekyll Themes
+#### Análisis descriptivo de datos
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imed-puc/imed-puc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```
+1.1.	 Medidas numéricas de resumen
+1.2. 	Representaciones gráficas básicas
+1.3. 	Visualización de datos
+1.4. 	Medidas de similitud.
+```
 
-### Support or Contact
+### Temario Tentativo 3
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Pre procesamiento de datos
+
+* ```
+  Manejo de datos ruidosos y datos faltantes
+  ```
+
+* Discretización
+
